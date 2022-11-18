@@ -1,0 +1,15 @@
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/bin/Debug/net6.0/Entitiy.deps.json
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/bin/Debug/net6.0/Entitiy.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/bin/Debug/net6.0/Entitiy.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.csproj.AssemblyReference.cache
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.AssemblyInfoInputs.cache
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.AssemblyInfo.cs
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.csproj.CoreCompileInputs.cache
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/refint/Entitiy.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/ref/Entitiy.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/bin/Debug/net6.0/Core.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/bin/Debug/net6.0/Core.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/Entitiy/obj/Debug/net6.0/Entitiy.csproj.CopyComplete

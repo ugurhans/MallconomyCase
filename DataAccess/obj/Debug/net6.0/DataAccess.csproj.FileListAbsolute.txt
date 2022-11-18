@@ -1,0 +1,17 @@
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/refint/DataAccess.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/Core.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/Entitiy.dll
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/Entitiy.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/bin/Debug/net6.0/Core.pdb
+/Users/ugurhans/Repositories/BitBucket/Mallconomy/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CopyComplete
